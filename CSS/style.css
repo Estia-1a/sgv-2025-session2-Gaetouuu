@@ -1,4 +1,8 @@
+body {
+  color: grey;
+}
+
 p {
-  font-style=italic;
+  font-style : italic;
   color: blue;
 }
